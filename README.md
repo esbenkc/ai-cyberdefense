@@ -2,6 +2,22 @@
 
 As artificial intelligence (AI) progresses and embeds itself into every facet of digital life, its applications in cyberdefense become increasingly critical. This repository serves as a comprehensive compilation of resources pertaining to AI-based cyberdefense. It curates a wide spectrum of materials, ranging from books and articles on general cybersecurity and AI cybersafety, to the application of machine learning techniques in cybersecurity. Additionally, it provides an overview of prevalent cyber attacks and potential defenses, highlights relevant conferences and events, and introduces products and initiatives from leading AI organizations committed to strengthening cyber defense. By equipping readers with this knowledge, we aim to empower individuals, organizations, and nation-states to leverage AI technologies in fortifying their cyber infrastructure and effectively combat the rising tide of cyber threats. This work underscores the urgent need for informed and proactive engagement in this rapidly evolving landscape of AI and cyber defense.
 
+- [AI Cyberdefense](#ai-cyberdefense)
+  - [Resources](#resources)
+    - [General cybersecurity](#general-cybersecurity)
+    - [AI cybersafety](#ai-cybersafety)
+    - [Other lists](#other-lists)
+  - [Experimental resources](#experimental-resources)
+    - [Datasets](#datasets)
+    - [Packages](#packages)
+    - [References](#references)
+    - [Project ideas](#project-ideas)
+  - [Conferences and events](#conferences-and-events)
+  - [Products](#products)
+  - [AI organization commitments](#ai-organization-commitments)
+  - [Notes](#notes)
+    - [Overview of attacks and defenses](#overview-of-attacks-and-defenses)
+
 ## Resources
 
 ### General cybersecurity
