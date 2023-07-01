@@ -1,6 +1,6 @@
 # AI Cyberdefense
 
-🔥 A repository for collecting cyberdefense thoughts, books, and documents about AI cyberdefense
+As artificial intelligence (AI) progresses and embeds itself into every facet of digital life, its applications in cyberdefense become increasingly critical. This repository serves as a comprehensive compilation of resources pertaining to AI-based cyberdefense. It curates a wide spectrum of materials, ranging from books and articles on general cybersecurity and AI cybersafety, to the application of machine learning techniques in cybersecurity. Additionally, it provides an overview of prevalent cyber attacks and potential defenses, highlights relevant conferences and events, and introduces products and initiatives from leading AI organizations committed to strengthening cyber defense. By equipping readers with this knowledge, we aim to empower individuals, organizations, and nation-states to leverage AI technologies in fortifying their cyber infrastructure and effectively combat the rising tide of cyber threats. This work underscores the urgent need for informed and proactive engagement in this rapidly evolving landscape of AI and cyber defense.
 
 ## Resources
 
@@ -38,7 +38,6 @@
 
 - [Palantir AIP](https://www.palantir.com/platforms/aip/)
 - [CIS Benchmarks](https://www.cisecurity.org/cis-benchmarks)
--
 
 ## AI organization commitments
 
