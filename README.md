@@ -34,6 +34,28 @@ As artificial intelligence (AI) progresses and embeds itself into every facet of
 - [Awesome Machine Learning for Cyber Security](https://github.com/jivoi/awesome-ml-for-cybersecurity): A curated list of amazingly awesome tools and resources related to the use of machine learning for cyber security.
 - [Awesome AI Security](https://github.com/DeepSpaceHarbor/Awesome-AI-Security): A curated list of AI security resources inspired by awesome-adversarial-machine-learning & awesome-ml-for-cybersecurity.
 
+## Experimental resources
+
+We're interested in running experiments on how we can make cybersecurity safer or increase the reliability and defense of LLM systems.
+
+### Datasets
+
+- [A really good overview of real-world networking datasets and resources](https://gist.github.com/stefanbschneider/96602bb3c8b256b90058d59f337a0e59)
+- [Darknet dataset](https://www.unb.ca/cic/datasets/darknet2020.html) ([∆](https://www.kaggle.com/datasets/peterfriedrich1/cicdarknet2020-internet-traffic))
+
+### Packages
+
+- [python] [FlowLabeler](https://github.com/jsrojas/FlowLabeler): Processing IP packets
+- [python] [Malware environment for OpenAI Gym](https://github.com/endgameinc/gym-malware): Create an AI that learns through reinforcement learning which functionality-preserving transformations to make on a malware sample to break through / bypass machine learning static-analysis malware detection.
+
+### References
+
+- [EvadeRL: Evading PDF Malware Classifiers with Deep Reinforcement Learning](https://www.hindawi.com/journals/scn/2022/7218800/)
+
+### Project ideas
+
+- Malware detection: AI has the potential to provide much more accurate and faster detection of malicious activity than traditional signature-based detection. To design this kind of system, you would need to first create a data set of network traffic. This data set would need to include both malicious and benign traffic so that the AI could learn to distinguish between the two. | Network traffic dataset
+
 ## Conferences and events
 
 | Name                                                                 | When?          | Description           | Location  |
@@ -61,7 +83,3 @@ As artificial intelligence (AI) progresses and embeds itself into every facet of
 | Malware attacks: Malicious software | Antivirus, antimalware (AMW) software, firewalls                      | AMW: Signature-based (known malware) and behaviour-based detection (suspicious activity). |
 | Phishing attacks                    | User education, email filtering, network traffic flagging             |                                                                                           |
 | Denial-of-service attacks           | Network capacity, CDN, intrusion detection & prevention system (IDPS) | IDPS monitors network traffic and warns or blocks                                         |
-
-## Project ideas
-
-- Malware detection: AI has the potential to provide much more accurate and faster detection of malicious activity than traditional signature-based detection. To design this kind of system, you would need to first create a data set of network traffic. This data set would need to include both malicious and benign traffic so that the AI could learn to distinguish between the two. | Network traffic dataset
