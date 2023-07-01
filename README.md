@@ -44,6 +44,9 @@ As artificial intelligence (AI) progresses and embeds itself into every facet of
 
 ### Other lists
 
+- [BlueTeam-Tools](https://github.com/A-poc/BlueTeam-Tools): This github repository contains a collection of 65+ tools and resources that can be useful for blue teaming activities.
+- [RedTeam-Tools](https://github.com/A-poc/RedTeam-Tools): This github repository contains a collection of 130+ tools and resources that can be useful for red teaming activities.
+- [awesome-security](https://github.com/sbilly/awesome-security)
 - [Reseach-AI-CyberSecurity](https://github.com/AIDXNZ/Research-Ai-Cybersec): A collection of resources to start off researching AI in CyberSecurity
 - [Awesome Cyber Security](https://github.com/fabionoth/awesome-cyber-security): A collection of awesome software, libraries, documents, books, resources and cool stuff about security.
 - [Awesome AI for cybersecurity](https://github.com/Billy1900/Awesome-AI-for-cybersecurity): Awesome list of AI for cybersecurity including network (network traffic analysis and intrusion detection), endpoint (anti-malware), application (WAF or database firewalls), user (UBA), process behavior (anti-fraud).
@@ -84,6 +87,7 @@ We're interested in running experiments on how we can make cybersecurity safer o
 
 - [Palantir AIP](https://www.palantir.com/platforms/aip/)
 - [CIS Benchmarks](https://www.cisecurity.org/cis-benchmarks)
+- [Intel Owl](https://github.com/intelowlproject/IntelOwl): Single API to get threat information about any file, IP, etc.
 
 ## AI organization commitments
 
