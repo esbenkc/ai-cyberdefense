@@ -26,6 +26,14 @@ As artificial intelligence (AI) progresses and embeds itself into every facet of
 - [sequence] [AI infosec: first strikes, zero-day markets, hardware supply chains, adoption barriers](https://www.lesswrong.com/posts/kvk2ZorXui4YB4zvc/ai-infosec-first-strikes-zero-day-markets-hardware-supply)
 - [post] [AI Safety in a World of Vulnerable Machine Learning Systems](https://www.lesswrong.com/posts/ncsxcf8CkDveXBCrA/ai-safety-in-a-world-of-vulnerable-machine-learning-systems-1)
 
+### Other lists
+
+- [Reseach-AI-CyberSecurity](https://github.com/AIDXNZ/Research-Ai-Cybersec): A collection of resources to start off researching AI in CyberSecurity
+- [Awesome Cyber Security](https://github.com/fabionoth/awesome-cyber-security): A collection of awesome software, libraries, documents, books, resources and cool stuff about security.
+- [Awesome AI for cybersecurity](https://github.com/Billy1900/Awesome-AI-for-cybersecurity): Awesome list of AI for cybersecurity including network (network traffic analysis and intrusion detection), endpoint (anti-malware), application (WAF or database firewalls), user (UBA), process behavior (anti-fraud).
+- [Awesome Machine Learning for Cyber Security](https://github.com/jivoi/awesome-ml-for-cybersecurity): A curated list of amazingly awesome tools and resources related to the use of machine learning for cyber security.
+- [Awesome AI Security](https://github.com/DeepSpaceHarbor/Awesome-AI-Security): A curated list of AI security resources inspired by awesome-adversarial-machine-learning & awesome-ml-for-cybersecurity.
+
 ## Conferences and events
 
 | Name                                                                 | When?          | Description           | Location  |
