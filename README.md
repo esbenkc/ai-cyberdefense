@@ -75,7 +75,7 @@ We're interested in running experiments on how we can make cybersecurity safer o
 
 - Malware detection: AI has the potential to provide much more accurate and faster detection of malicious activity than traditional signature-based detection. To design this kind of system, you would need to first create a data set of network traffic. This data set would need to include both malicious and benign traffic so that the AI could learn to distinguish between the two. | Network traffic dataset
 - LLM Phishing Detection: Train an LLM to generate phishing emails and use it as a benchmark to train and test anti-phishing systems.
-- Input Sanitization Check: Test various unsanitized inputs to an LLM and observe if it can be exploited to perform unintended operations, such as SQL injection or Cross-Site Scripting (XSS).
+- Input Sanitization Check: Test various unsanitized inputs to an LLM and observe if it can be exploited to perform unintended operations, such as SQL injection or Cross-Site Scripting (XSS). ([dataset 1](https://www.kaggle.com/datasets/shashwatwork/phishing-dataset-for-machine-learning), [dataset 2](https://github.com/GregaVrbancic/Phishing-Dataset))
 - Malicious Code Generation Prevention: Test different safety mitigations in preventing an LLM from generating harmful code snippets, even when specifically requested. This can involve testing various prompts and fine-tuning strategies.
 - Safety Layers Benchmarking: Evaluate the effectiveness of various safety layers (rate limiters, use-case specific guidelines) in protecting the LLM from misuse.
 - LLM Chatbot Resilience: Evaluate how well an LLM chatbot can withstand attempted attacks or malicious uses by simulating an adversarial user trying to trick the system into generating harmful content.
